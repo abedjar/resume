@@ -1117,14 +1117,32 @@ var resume = {
         ],
     },
     tpc: [
+         {
+            name: "Vehicular Communications Journal",
+            date: "2020 - Present",
+            url: "https://www.journals.elsevier.com/vehicular-communications"
+        },
+                {
+            name: "IEEE Internet of Things Journal",
+            date: "2023 - Present"
+        },
+        {
+            name:"CCIDSA 2026: 2nd International Conference on Cognitive Computing, Intelligence and Data Science Applications",
+            date: "2026"
+        },
+        {
+            name:"MobiSPC 2026: The 23rd International Conference on Mobile Systems and Pervasive Computing",
+            date: "2026"
+        },
+        {
+            name:"IWCMC 2026 : The 22nd International Wireless Communications & Mobile Computing Conference",
+            date: "2026"
+        },
         {
             name: "IEEE Access",
             date: "2023"
         },
-        {
-            name: "IEEE Internet of Things Journal",
-            date: "2023"
-        },
+
         {
             name: "IEEE Transactions on Industrial Informatics",
             date: "2022"
@@ -1132,10 +1150,6 @@ var resume = {
         {
             name: "IEEE Canadian Journal for Electrical and Computer Engineering CJECE ",
             date: "2022"
-        },
-        {
-            name: "IEEE Internet of Things Journal",
-            date: "2021"
         },
         {
             name: "CNSM2020",
@@ -1151,11 +1165,7 @@ var resume = {
             date: "2020",
             url: "https://wimob.org/wimob2020/"
         },
-        {
-            name: "Vehicular Communications Journal",
-            date: "2020",
-            url: "https://www.journals.elsevier.com/vehicular-communications"
-        },
+       
         {
             name: "IEEE URUCON",
             date: "2021"
