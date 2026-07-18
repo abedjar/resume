@@ -1127,6 +1127,10 @@ var resume = {
             date: "2023 - Present"
         },
         {
+            name:"AIBThings 2026: IEEE 4th International Conference on Artificial Intelligence, Blockchain and Internet of Things",
+            date: "2026"
+        },
+        {
             name:"CCIDSA 2026: 2nd International Conference on Cognitive Computing, Intelligence and Data Science Applications",
             date: "2026"
         },
